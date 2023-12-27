@@ -1,0 +1,16 @@
+{
+    "name": "solid/app_carrinho_compras",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Karen",
+            "email": "karenyasmin37@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "src\\" : "src/"
+        }
+    }
+}

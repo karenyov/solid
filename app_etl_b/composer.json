@@ -1,0 +1,21 @@
+{
+    "name": "master/app_etl",
+    "autoload": {
+        "psr-4": {
+            "Master\\AppEtl\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Karen Vicente",
+            "email": "karenyasmin37@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "src\\": "src/"
+        }
+    }
+    
+}

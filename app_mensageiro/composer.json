@@ -1,0 +1,15 @@
+{
+    "name": "master/app_mensageiro",
+    "autoload": {
+        "psr-4": {
+            "src\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Karen Vicente",
+            "email": "karenyasmin37@gmail.com"
+        }
+    ],
+    "require": {}
+}
